@@ -1,4 +1,4 @@
-hello!
+hello, dude
 
 <p align="center">
   <a href="https://github.com/kettanaito/naming-cheatsheet">
